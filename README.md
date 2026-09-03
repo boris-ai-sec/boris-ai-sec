@@ -1,46 +1,35 @@
 # Boris Abuzov
 
-**Independent AI Risk & Governance Consultant**
+**AI Risk & Governance Consultant**
 
-I conduct evidence-based risk and readiness reviews for GenAI, RAG, and agentic systems.
-
-My work connects:
+Independent risk and readiness reviews for GenAI, RAG and agentic systems.
 
 > Architecture → Risk → Consequences → Controllability
 
-I examine what is supported by available evidence, what remains unverified, and what should be addressed before deployment, scaling, client handoff, or increased autonomy.
-
-## Review routes
-
-### AI System Design Risk Review
-
-A pre-deployment or design-stage review of system architecture, workflow boundaries, authority, permissions, retrieval, human approval, failure handling, and expected operating conditions.
-
-### Operational AI Risk Review
-
-A runtime-oriented review using available operational evidence such as demonstrations, configurations, sanitized logs, traces, test results, and observed system behaviour.
-
-Either route may be evidence-enriched. Technical evidence supports professional judgment; it does not automatically produce findings, scores, or readiness decisions.
+I focus on whether system architecture, runtime behaviour, retrieval controls, approval and execution boundaries, and available evidence support a defensible readiness decision.
 
 ## Current technical focus
 
-- RAG source and metadata boundaries
-- retrieval behaviour and evidence traceability
-- agent authority and tool-use controls
-- workflow telemetry and reconstruction
-- failure handling, recovery, and controllability
-- evidence quality and limitations
+- RAG retrieval and source boundaries
+- agent authority, approval binding and controlled execution
+- runtime observability and workflow reconstruction
+- evidence integrity, limitations and controllability
 
-## AI Systems Risk & Evidence Lab
+## Selected technical work
 
-The [AI Systems Risk & Evidence Lab](https://github.com/boris-ai-sec/ai-security-lab) develops controlled experiments and bounded technical evidence for RAG, agent, observability, and operational AI risk questions.
+### AI Systems Risk & Evidence Lab
 
-Lab outputs are evidence inputs. They are not formal audits, certifications, legal conclusions, penetration tests, or substitutes for production evidence.
+Public, bounded technical evidence for RAG, agentic systems, execution integrity and observability.
 
-## Links
+- [AI Systems Risk & Evidence Lab](https://github.com/boris-ai-sec/ai-security-lab)
+- [Latest GitHub Release](https://github.com/boris-ai-sec/ai-security-lab/releases/latest)
+- [Public Evidence](https://borisabuzov.com/evidence/)
+- [Sample AI Agent Readiness Check](https://borisabuzov.com/evidence/sample-deliverable/)
 
-- Website: https://borisabuzov.com
-- Services: https://borisabuzov.com/services/
-- Evidence: https://borisabuzov.com/evidence/
-- LinkedIn: https://www.linkedin.com/in/boris-abuzov-854176426
-- Contact: https://borisabuzov.com/discuss/
+Lab outputs support professional review and decision-making. They do not constitute production-wide safety claims, certification, or legal conclusions.
+
+## Professional
+
+- [Website](https://borisabuzov.com/)
+- [Services](https://borisabuzov.com/services/)
+- [Contact](https://borisabuzov.com/discuss/)
